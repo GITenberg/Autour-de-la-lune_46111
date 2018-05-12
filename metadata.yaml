@@ -1,0 +1,69 @@
+_repo: Autour-de-la-lune_46111
+_version: 0.1.0
+contributor:
+  engineer:
+    agent_name: Hildibrand, Henri Théophile
+    aliases:
+    - Hildibrand, Henri Theophile
+    - Hildibrand
+    birthdate: 1824
+    deathdate: 1897
+    gutenberg_agent_id: '9881'
+    url: http://www.gutenberg.org/2009/agents/9881
+  illustrators:
+  - agent_name: Neuville, Alphonse Marie de
+    aliases:
+    - Neuville, de
+    - Neuville, A. de (Alphonse)
+    - De Neuville, Alphonse Marie
+    birthdate: 1835
+    deathdate: 1885
+    gutenberg_agent_id: '7311'
+    url: http://www.gutenberg.org/2009/agents/7311
+  - agent_name: Bayard, Émile Antoine
+    alias: Bayard, Emile Antoine
+    birthdate: 1837
+    deathdate: 1891
+    gutenberg_agent_id: '7533'
+    url: http://www.gutenberg.org/2009/agents/7533
+    wikipedia: http://en.wikipedia.org/wiki/%C3%89mile_Bayard
+covers:
+- cover_type: archival
+  image_path: 46111-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriel
+    - Verne, Júlio
+    - Verne, Jules Gabriël
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+description: ''
+gutenberg_bookshelf:
+- FR Science fiction
+- FR Jeunesse
+- FR Littérature
+gutenberg_issued: '2014-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46111'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Manned space flight -- Fiction'
+- !lcsh 'Moon -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Science fiction'
+- !lcsh 'Space ships -- Fiction'
+- !lcsh 'Space flight to the moon -- Fiction'
+title: Autour de la lune
+url: http://www.gutenberg.org/ebooks/46111
