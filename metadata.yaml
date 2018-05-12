@@ -46,6 +46,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Jules_Verne
     - http://pt.wikipedia.org/wiki/Júlio_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46111#Autour-de-la-lune
 gutenberg_bookshelf:
 - FR Science fiction
 - FR Jeunesse
